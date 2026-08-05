@@ -16,7 +16,6 @@ $$k_g = k_l \left( 1 + \frac{b}{P_m} \right)$$
 ---
 
 ## Key Results
-![Klinkenberg Regression Analysis](figures/klinkenberg_regression.png)
 
 - **Calculated Liquid Permeability ($k_l$):** `15.951 mD`
 - **Slippage Factor ($b$):** `253.48 psi`
@@ -24,9 +23,3 @@ $$k_g = k_l \left( 1 + \frac{b}{P_m} \right)$$
 
 ---
 
-## Quickstart
-
-1. **Clone Repository:**
-   ```bash
-   git clone [https://github.com/your-username/klinkenberg-permeability-analysis.git](https://github.com/your-username/klinkenberg-permeability-analysis.git)
-   cd klinkenberg-permeability-analysis
